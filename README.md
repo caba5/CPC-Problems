@@ -1,1 +1,2 @@
-CPC-Problems
+# CPC-Problems
+Solutions for some competitive programming problems (from the course "Competitive Programming and Contests").
